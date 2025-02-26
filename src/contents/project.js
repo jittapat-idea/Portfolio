@@ -2,10 +2,10 @@ import { faGithub } from "@fortawesome/free-brands-svg-icons";
 export const data = [
     {
         date: "february 2025",
-        title: "Portfolio Website",
+        title: "My-Portfolio",
         link: "",
         material: [
-            { type:faGithub,link:"https://github.com/jittapat-idea?tab=repositories"}
+            { type:faGithub,link:"https://github.com/jittapat-idea/Portfolio"}
         ],
         description: [
             "Position: Frontend Developer",
