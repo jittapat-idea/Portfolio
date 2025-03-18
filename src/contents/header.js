@@ -1,4 +1,4 @@
-import filename from '../assets/Jitapat_Resume.pdf';
+import filename from '../assets/Jitapat_Resume_update.pdf';
 
 export const data = {
     name: 'Jittapat Ausakul',
